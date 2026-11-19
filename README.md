@@ -67,7 +67,7 @@ Priorização MoSCoW: Must cadastro, agendamento, integração, segurança/LGPD 
 
 | Item | Valor |
 | Pessoas (3.008 h) | R$ 134.720 |
-| Fornecedores | R$ 61.000 |
+| Fornecedores | R$ 76.000 |
 | Materiais e tecnologia | R$ 15.000 |
 | **Custo estimado** | **R$ 210.720** |
 | Reserva de contingência | R$ 18.250 |
